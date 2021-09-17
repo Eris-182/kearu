@@ -474,13 +474,13 @@ nav {
 }
 
 .economy,
-.badges,
+.work,
 .reminders {
   flex-direction: row;
 }
 
 .gambling,
-.voting,
+.moderation,
 .other {
   flex-direction: row-reverse;
 }
